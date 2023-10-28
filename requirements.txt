@@ -1,0 +1,10 @@
+numpy
+torch
+autopep8
+streamlit
+spacy==2.3.9
+djangorestframework
+streamlit-authenticator
+streamlit-option-menu
+transformers
+july
